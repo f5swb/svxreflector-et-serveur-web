@@ -45,6 +45,7 @@ sleep 1
 ensuite on edite le fichier svxreflector afin de rendre compatible le format de l’heure avec le dashboard : 
 
 nano /etc/svxreflector.conf
+
 ###################################################################
 #
 # Configuration file for the SvxReflector SvxLink conference node
